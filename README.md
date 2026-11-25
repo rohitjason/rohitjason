@@ -26,7 +26,7 @@
 - 🌱 Currently Learning: Python, JavaScript, SQL & React
 - 🎯 Goal 2026: Build 10+ Real Projects & Grow on GH
 - 👯 Collab: Open Source & Cool Ideas ke liye hamesha ready
-- 📩 Email: rohitjason.official@gmail.com
+- 📩 Email: rohitjasonh@gmail.com
 - 📸 Insta: [@imrohitjason](https://instagram.com/imrohitjason)
 - ⚡ Fun Fact: Chai + Code = Best Combo ☕
 <br clear="right"/>
