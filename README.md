@@ -19,15 +19,16 @@
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔥 **Name:** Rohit Jason
-- 📍 **From:** Bengaluru, India
-- 💻 **What I Do:** Web Development & Tech Projects
-- 🌱 **Currently Learning:** Python, JavaScript, SQL & React
-- 🎯 **Goal 2026:** Build 10+ Real Projects & Grow on 【entity-GitHub¦canonical_name=GitHub】
-- 👯 **Collab:** Open Source & Cool Ideas ke liye hamesha ready
-- 📫 **DM Me:** [【entity-Instagram¦canonical_name=Instagram】 @imrohitjason](https://instagram.com/imrohitjason)
-- ⚡ **Fun Fact:** Chai + Code = Best Combo ☕
 
+- 🔥 Name: Rohit Jason
+- 📍 From: Bengaluru, India
+- 💻 What I Do: Web Development & Tech Projects
+- 🌱 Currently Learning: Python, JavaScript, SQL & React
+- 🎯 Goal 2026: Build 10+ Real Projects & Grow on GH
+- 👯 Collab: Open Source & Cool Ideas ke liye hamesha ready
+- 📩 Email: rohitjason.official@gmail.com
+- 📸 Insta: [@imrohitjason](https://instagram.com/imrohitjason)
+- ⚡ Fun Fact: Chai + Code = Best Combo ☕
 <br clear="right"/>
 
 ---
@@ -40,7 +41,7 @@
 
 ---
 
-### 📊 【entity-GitHub¦canonical_name=GitHub】 Stats - Mera Level
+### 📊 GitHub Stats - Mera Level
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohitjason&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" width="48%" />
@@ -54,7 +55,7 @@
 
 ---
 
-### 🏆 【entity-GitHub¦canonical_name=GitHub】 Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rohitjason&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
