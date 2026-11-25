@@ -58,7 +58,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitjason&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitjason&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 <p align="center">
   <a href="https://instagram.com/imrohitjason"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/rohitjason"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/rohitjason"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://in.linkedin.com/in/rohit-hansda-8b53a21a4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
